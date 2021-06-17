@@ -1,0 +1,1 @@
+This repo contains the slides for the video sharing on bilibili, you can find [here](https://www.bilibili.com/video/BV1np4y1q7az/). This sharing is about the core concept of [polkadot](https://polkadot.network/) cross chain and shared security.
